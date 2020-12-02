@@ -24,7 +24,7 @@ I am an [Android Developer](#). Currently working as an Android Engineer @ [ZH H
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
 <a href="https://github.com/e4basil/e4basil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/e4basil/e4basil">
