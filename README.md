@@ -41,7 +41,7 @@ I am an [Android Developer](#). Currently working as an Android Engineer @ [ZH H
 [<img align="left" alt="e4basil | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />][website]
 [<img align="left" alt="e4basil | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
 
-[website]: e4basil.github.io
+[website]: e4basil.github.io/e4basil
 [twitter]: 
 [instagram]: 
 [linkedin]: https://www.linkedin.com/in/basil-k-891974a2/
