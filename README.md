@@ -3,6 +3,7 @@
 I am an [Android Developer](#). Currently working as an Android Engineer @ [ZH HealthCare](https://zhhealthcare.com/). I have experienced with Android App Development using Kotlin/Java, Jetpack, Architecture Pattern, and Design Pattern.
 
 for any info please mail me e4basil@gmail.com
+
 ![](https://komarev.com/ghpvc/?username=e4basil&color=brightgreen&style=flat)
 
 <p align='center'>
