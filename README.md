@@ -30,14 +30,13 @@ for any info please mail me e4basil@gmail.com
   
   <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=e4basil&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=e4basil&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=e4basil&theme=light&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=e4basil&theme=light&hide_border=true" />
   
 </p>
-<br>
   
  <p align="left"> 
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil&theme=light&hide_border=true"&hide_langs_below=1" />
   </p>
   
   
