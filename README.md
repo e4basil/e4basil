@@ -27,10 +27,13 @@ for any info please mail me e4basil@gmail.com
 
 <a href="https://github.com/e4basil/e4basil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e4basil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Basil's GitHub Stats" />
 </a>
 
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=e4basil&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/e4basil&hide_border=true)
+
 <a href="https://github.com/e4basil/e4basil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e4basil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Basil's GitHub Stats" />
+  
 </a>
 
 ### Tech Stack:
