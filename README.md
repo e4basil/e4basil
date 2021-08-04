@@ -23,18 +23,34 @@ for any info please mail me e4basil@gmail.com
 
 ## Stats:
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<!-- <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"> -->
 
-<a href="https://github.com/e4basil/e4basil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=e4basil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Basil's GitHub Stats" />
-</a>
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=e4basil&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/e4basil&hide_border=true)
-
-<a href="https://github.com/e4basil/e4basil">
+<a href="https://github.com/e4basil/e4basil" >
   
+  
+  <br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=e4basil&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=e4basil&theme=prussian&hide_border=true" />
+  
+</p>
+<br>
+  
+ <p align="left"> 
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e4basil&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </p>
+  
+  
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=e4basil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Basil's GitHub Stats" /> -->
+
+  [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=e4basil&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/e4basil&hide_border=true)
+
 </a>
+
+
+<!-- <a href="https://github.com/e4basil/e4basil">
+  
+</a> -->
 
 ### Tech Stack:
 
